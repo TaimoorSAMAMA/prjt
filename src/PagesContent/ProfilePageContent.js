@@ -132,7 +132,7 @@ function ProfileContent() {
                             />
                         </Form.Group>
                         <Form.Group controlId="formPhone">
-                            <Form.Label className='mt-2'>Phone Number</Form.Label>
+                            <Form.Label className='mt-2'>Contact Number</Form.Label>
                             <Form.Control
                                 type="tel"
                                 placeholder="Enter your phone number"

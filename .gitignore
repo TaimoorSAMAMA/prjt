@@ -1,0 +1,39 @@
+# Dependencies and packages
+node_modules/
+bower_components/
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build outputs for React
+build/
+
+# Production or test bundles
+dist/
+
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage reports (commonly from Jest or other testing tools)
+coverage/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore lock files if you want (optional, depends on your preference)
+# package-lock.json
+# yarn.lock
