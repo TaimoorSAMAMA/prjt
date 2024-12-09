@@ -1,0 +1,225 @@
+/* .navbar-brand-style {
+    margin-left: 20px;
+}
+
+.nav-style {
+    max-height: 100px;
+}
+
+.form-style .button-login,
+.form-style .button-register {
+    margin-right: 20px;
+    margin-top: 8px;
+} */
+.sticky-navbar {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other elements */
+    background: linear-gradient(115deg, #8b8785 0%, #0e261e 95%);
+    width: 100%; /* Ensure navbar spans full width */
+}
+
+.navbar-brand-style {
+    margin-left: 20px;
+    font-size: 35px;
+    color: #ffffff; /* Example: set text color for brand */
+    /* Add any other necessary styles for your navbar brand */
+}
+
+.nav-style {
+    max-height: 100px; /* Adjust max height as needed */
+    overflow: hidden; /* Hide any overflow to prevent content spilling out */
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 13px;
+    margin: 10px;
+    font-size: 18px;
+    color: #ffffff; /* Example: set text color for links */
+    /* Add any other necessary styles for your navbar links */
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.linkbutton1 {
+    padding-bottom: 7px;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////// */
+/* .sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other elem
+    background: linear-gradient(115deg,  #8b8785 0%, #0e261e 95%);
+    
+}
+
+.navbar-brand-style {
+    margin-left: 20px;
+    font-size: 35px;
+    
+}
+
+.nav-style {
+    max-height: 100px;
+
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 13px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.linkbutton1{
+
+    padding-bottom: 7px;
+    
+} */
+
+/* .sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other elements 
+    background: linear-gradient(115deg, #8b8785 0%, #0e261e 95%);
+}
+
+.navbar-brand-style {
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.nav-style {
+    max-height: 100px;
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 13px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.linkbutton1 {
+    padding-bottom: 7px;
+} */
+
+/* .sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other elements
+    background: linear-gradient(115deg, #8b8785 0%, #0e261e 95%);
+    width: 100%; /* Ensure navbar spans full width 
+}
+
+.navbar-brand-style {
+    margin-left: 20px;
+    font-size: 35px;
+    color: #ffffff; Example: set text color for brand 
+    /* Add any other necessary styles for your navbar brand 
+}
+
+.nav-style {
+    max-height: 100px; /* Adjust max height as needed 
+    overflow: hidden; /* Hide any overflow to prevent content spilling out 
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 13px;
+    margin: 10px;
+    font-size: 18px;
+    color: #ffffff; /* Example: set text color for links 
+    /* Add any other necessary styles for your navbar links 
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.linkbutton1 {
+    padding-bottom: 7px;
+} */
+
+/*
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other elements
+    background: linear-gradient(115deg, #8b8785 0%, #0e261e 95%);
+    width: 100%; /* Ensure navbar spans full width 
+}
+
+.navbar-brand-style {
+    margin-left: 20px;
+    font-size: 35px;
+    color: #ffffff; /* Example: set text color for brand
+    /* Add any other necessary styles for your navbar brand 
+}
+
+.nav-style {
+    max-height: 100px; /* Adjust max height as needed
+    overflow: hidden; /* Hide any overflow to prevent content spilling out
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 13px;
+    margin: 10px;
+    font-size: 18px;
+    color: #ffffff; /* Example: set text color for links
+    /* Add any other necessary styles for your navbar links
+}
+
+.btn-outline-success {
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.btn-outline-success:hover {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.linkbutton1 {
+    padding-bottom: 7px;
+}
+*/
+
